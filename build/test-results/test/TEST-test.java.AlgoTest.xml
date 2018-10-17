@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-17T17:38:23" hostname="Aurora" time="0.031">
+<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-17T18:03:07" hostname="Aurora" time="0.023">
   <properties/>
-  <testcase name="testHeapUnsorted" classname="test.java.AlgoTest" time="0.016"/>
+  <testcase name="testHeapUnsorted" classname="test.java.AlgoTest" time="0.011"/>
   <testcase name="testSelectionEmptyItem" classname="test.java.AlgoTest" time="0.001"/>
-  <testcase name="testBubbleUnsorted" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testBubbleUnsorted" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testQuickUnsorted" classname="test.java.AlgoTest" time="0.001"/>
   <testcase name="testHeapEmptyItem" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="testMergeEmptyItem" classname="test.java.AlgoTest" time="0.001"/>
-  <testcase name="testMergeUnsorted" classname="test.java.AlgoTest" time="0.001"/>
-  <testcase name="testInsertionEmptyItem" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="testMergeEmptyItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testMergeUnsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testInsertionEmptyItem" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testSelectionUnsorted" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testBubbleEmptyItem" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="testInsertionUnsorted" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="testQuickEmptyItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testQuickEmptyItem" classname="test.java.AlgoTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
